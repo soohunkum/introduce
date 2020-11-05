@@ -1,1 +1,20 @@
 @charset "UTF-8";
+/*
+font-family: 'Do Hyeon', sans-serif;
+font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+h1, h2, h3, h4, .navbar-brand{
+	font-family : 'Do Hyeon', sans-serif;
+	color: #1B5E20;
+}
+
+body{
+	font-family : 'Noto Sans KR', sans-serif;
+	background-color : #C8e6C9;
+}
+
+.navbar{
+	border-bottom : #43A047 3px solid;
+	
+}
