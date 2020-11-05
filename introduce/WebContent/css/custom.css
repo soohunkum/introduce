@@ -2,19 +2,18 @@
 /*
 font-family: 'Do Hyeon', sans-serif;
 font-family: 'Noto Sans KR', sans-serif;
-font-family: 'Roboto', sans-serif;
 */
 h1, h2, h3, h4, .navbar-brand{
 	font-family : 'Do Hyeon', sans-serif;
-	color: #1B5E20;
+	color: #0D47A1;
 }
 
 body{
 	font-family : 'Noto Sans KR', sans-serif;
-	background-color : #C8e6C9;
+	background-color : #D1C4E9;
 }
 
 .navbar{
-	border-bottom : #43A047 3px solid;
+	border-bottom : #00ACC1 3px solid;
 	
 }
